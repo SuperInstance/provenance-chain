@@ -1,0 +1,9 @@
+[package]
+name = "provenance-chain"
+version = "0.1.0"
+edition = "2021"
+description = "Knowledge provenance tracking with trust scoring"
+license = "MIT"
+repository = "https://github.com/SuperInstance/provenance-chain"
+
+[dependencies]
